@@ -1,0 +1,2 @@
+# Basic Network and Linux VM
+This module creates a simple virtual network with one Linux VM. The virtual machine has a public IP address as well as a Network Security Gateway that restricts logging in via SSH to only specified IP addresses.
